@@ -1,3 +1,7 @@
+// Sources : GPT, GitHub
+// Would have liked to add a filter in case of periods to make it all come out nice at the end 
+// but i guess users would just redo it if they thought the formatting looked bad with extra puntuction.
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
